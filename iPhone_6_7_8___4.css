@@ -1,0 +1,459 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6/7/8 – 4;
+	--web-view-id: iPhone_6_7_8___4;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8___4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.iPhone_6_7_8___4_Class {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6/7/8 – 4;
+	--web-view-id: iPhone_6_7_8___4;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+._____318_Class {
+	position: absolute;
+	width: 375px;
+	height: 634px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Button {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	height: 74px;
+	left: 28px;
+	top: 578px;
+}
+._____Class {
+	position: absolute;
+	left: 159px;
+	top: 596px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+.Header {
+	filter: drop-shadow(0px -5.5px 26px rgba(211, 211, 211, 0.686));
+	position: absolute;
+	overflow: visible;
+	width: 453px;
+	height: 237px;
+	left: 0px;
+	top: 0px;
+}
+.Status_Bar_Class {
+	position: absolute;
+	width: 338.521px;
+	height: 18px;
+	left: 21px;
+	top: 15px;
+	overflow: visible;
+}
+.Battery_Class {
+	position: absolute;
+	width: 23.521px;
+	height: 12px;
+	left: 315px;
+	top: 3px;
+	overflow: visible;
+}
+.Border_Class {
+	opacity: 0.35;
+}
+.Border {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+.Cap_Class {
+	opacity: 0.4;
+}
+.Cap {
+	overflow: visible;
+	position: absolute;
+	width: 0.999px;
+	height: 3.995px;
+	left: 22.522px;
+	top: 3.985px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Capacity {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 8px;
+	left: 2px;
+	top: 2px;
+}
+.Wifi {
+	overflow: visible;
+	position: absolute;
+	width: 15.034px;
+	height: 11.041px;
+	left: 294.552px;
+	top: 2.961px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Cellular_Connection {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 10px;
+	left: 273px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Time_Style_Class {
+	position: absolute;
+	width: 54px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.__Time_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 55px;
+	height: 18px;
+	text-align: center;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.2px;
+}
+.Sheet {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 445px;
+	left: 0px;
+	top: 107px;
+}
+.______Class {
+	position: absolute;
+	left: 30px;
+	top: 152px;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+._____ba_Class {
+	position: absolute;
+	left: 30px;
+	top: 218px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+._1850_Class {
+	position: absolute;
+	left: 30px;
+	top: 244px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 0.1px;
+}
+.__1 {
+	overflow: visible;
+	position: absolute;
+	width: 374.506px;
+	height: 2.997px;
+	left: 0.499px;
+	top: 203.578px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.__2 {
+	overflow: visible;
+	position: absolute;
+	width: 374.506px;
+	height: 2.997px;
+	left: 0.499px;
+	top: 279.04px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.__4 {
+	overflow: visible;
+	position: absolute;
+	width: 368.509px;
+	height: 1px;
+	left: 0.499px;
+	top: 349.043px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Menu_Class {
+	position: absolute;
+	left: 151px;
+	top: 58px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.Total_Class {
+	position: absolute;
+	left: 30px;
+	top: 302px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 0.1px;
+}
+._7050_Class {
+	position: absolute;
+	left: 296px;
+	top: 305px;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 0.1px;
+}
+._2600__Class {
+	position: absolute;
+	left: 31px;
+	top: 173px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(62,62,62,1);
+	letter-spacing: 0.1px;
+}
+.Cancel_Class {
+	position: absolute;
+	left: 310px;
+	top: 61px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(78,78,78,1);
+	letter-spacing: 0.1px;
+}
+.Handle_Class {
+	opacity: 0;
+}
+.Handle {
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 5px;
+	left: 174px;
+	top: 273px;
+}
+.ID2_Class {
+	position: absolute;
+	left: 302px;
+	top: 160px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.ID1_Class {
+	position: absolute;
+	left: 302px;
+	top: 236px;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.__Class {
+	position: absolute;
+	left: 266px;
+	top: 155px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.__bf_Class {
+	position: absolute;
+	left: 334px;
+	top: 155px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.__bg_Class {
+	position: absolute;
+	left: 266px;
+	top: 230px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.__bh_Class {
+	position: absolute;
+	left: 334px;
+	top: 229px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.2px;
+}
+.iPhone_6_7_8___4_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	left: 0;
+	top: 0;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}

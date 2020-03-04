@@ -1,0 +1,276 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6/7/8 – 2;
+	--web-view-id: iPhone_6_7_8___2;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8___2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.iPhone_6_7_8___2_Class {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 375px;
+	height: 843px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6/7/8 – 2;
+	--web-view-id: iPhone_6_7_8___2;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+._____315_Class {
+	position: absolute;
+	width: 375px;
+	height: 826px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._0000_iPhone_X_Status_Bars_Sta_Class {
+	opacity: 0.8;
+	position: absolute;
+	width: 375px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._____283_Class {
+	position: absolute;
+	width: 332.559px;
+	height: 167.091px;
+	left: 22.056px;
+	top: 106.27px;
+	overflow: visible;
+	--web-animation: fadein 0.5s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_6_7_8___6.html;
+	cursor: pointer;
+}
+.pablo_merchan_montes_772134_un_Class {
+	filter: drop-shadow(0px 10px 99px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	width: 331.891px;
+	height: 166.422px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ID18382087_828608773955009_429_Class {
+	opacity: 0.85;
+	filter: drop-shadow(0px 10px 99px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	width: 331.891px;
+	height: 166.422px;
+	left: 0.668px;
+	top: 0.668px;
+	overflow: visible;
+}
+._____Class {
+	position: absolute;
+	left: 129.662px;
+	top: 65.525px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Josefin Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.___78 {
+	overflow: visible;
+	position: absolute;
+	width: 21.24px;
+	height: 21.237px;
+	left: 333.699px;
+	top: 51.464px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID93743128_Class {
+	position: absolute;
+	width: 330px;
+	height: 185px;
+	left: 23px;
+	top: 641px;
+	overflow: visible;
+}
+.Category_Class {
+	position: absolute;
+	left: 145px;
+	top: 49px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Josefin Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(34,36,85,1);
+}
+.____153_Class {
+	opacity: 0.5;
+}
+.____153 {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 29px;
+	left: 329px;
+	top: 542px;
+}
+._____284_Class {
+	position: absolute;
+	width: 331.891px;
+	height: 167.091px;
+	left: 22.056px;
+	top: 282.834px;
+	overflow: visible;
+}
+.CxOmf08UQAAODx1_Class {
+	opacity: 0.85;
+	filter: drop-shadow(0px 10px 99px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	width: 331.891px;
+	height: 167.091px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+._____y_Class {
+	position: absolute;
+	left: 117.298px;
+	top: 67.482px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Josefin Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+._____281_Class {
+	position: absolute;
+	width: 331.891px;
+	height: 167.091px;
+	left: 22.056px;
+	top: 462.496px;
+	overflow: visible;
+}
+.____Class {
+	filter: drop-shadow(0px 10px 99px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	width: 331.891px;
+	height: 167.091px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.______Class {
+	position: absolute;
+	left: 111.282px;
+	top: 67.271px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Josefin Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.Symbol_5___3_Class {
+	position: absolute;
+	width: 13.736px;
+	height: 24.932px;
+	left: 22.557px;
+	top: 48.456px;
+	overflow: visible;
+}
+.___94 {
+	overflow: visible;
+	position: absolute;
+	width: 19.846px;
+	height: 32.492px;
+	left: 1.17px;
+	top: 1.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.___Class {
+	position: absolute;
+	left: 163.749px;
+	top: 702.486px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: iPhone_6_7_8___1.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Josefin Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.iPhone_6_7_8___2_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 375px;
+	height: 843px;
+	left: 0;
+	top: 0;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
